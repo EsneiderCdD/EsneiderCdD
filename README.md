@@ -1,6 +1,6 @@
 <!-- Banner de bienvenida -->
 <p align="center">
-  <img src="https://i.imgur.com/zlD4kQe.png" alt="Banner Bienvenida Esneider" width="100%" />
+  <img src="https://imgur.com/a/ROcSXob" alt="Banner Bienvenida Esneider" width="100%" />
 </p>
 
 <h1 align="center">Hola! Soy Esneider Cadavid 👋</h1>
