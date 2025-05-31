@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Esneider Cadavid David</h1>
+<h1 align="center"> Hola! Soy Esneider Cadavid David👋 </h1>
 <h3 align="center">Técnico en Desarrollo de Software | Desarrollo Web (React & Python)</h3>
 
-- 🔭 I’m currently working on **Freelance**
+- 🔭 Actualmente estoy trabajando como trabajador independiente (Freelancer)**
 
 - 🌱 I’m currently learning **Dev.web**
 
