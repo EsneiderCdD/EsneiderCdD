@@ -1,13 +1,17 @@
 <h1 align="center"> Hola! Soy Esneider Cadavid David👋 </h1>
 <h3 align="center">Técnico en Desarrollo de Software | Desarrollo Web (React & Python)</h3>
 
-- 🔭 Actualmente estoy trabajando como trabajador independiente (Freelancer)**
+- 🔭 Actualmente estoy trabajando como trabajador independiente (Freelancer)
 
-- 🌱 I’m currently learning **Dev.web**
+- 🌱 Me encuentro profundizando sobre el **desarrollo web**
 
-- 👯 I’m looking to collaborate on **FullStack**
+- 👯 Busco colaborar en proyectos **full stack**
 
-<h3 align="left">Connect with me:</h3>
+- Mi fuerte es el desarrollo en **React**
+
+
+<h3 align="left">Contactame -> ecd.97@hotmail.com
+</h3>
 <p align="left">
 </p>
 
