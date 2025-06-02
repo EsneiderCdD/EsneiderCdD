@@ -21,10 +21,13 @@ Hola, soy Esneider, un desarrollador en formación con espíritu autodidacta y m
 
 ### 🚧 En qué estoy trabajando
 
-- 🧠 **Bitácora React** – un repositorio desde lo básico hasta lo avanzado en React (teoría + práctica).
-- 🌐 **Sitio web freelance** en desarrollo, pronto desplegado (espacio reservado abajo).
-
-> 💡 Planeo crecer esta sección a medida que sume proyectos reales y colaborativos.
+-  **Curso React** – Pagina web para aprender React de basico hasta avanzado fabricado y programado por  mí.
+-  **Mister Soldo** Artista Envigadeño que busca sobresalir con su musica y quiere subir de nivel en su pagina web.
+-  **Cartas Ditales** Cartas digitales para restaurantes y comidas, con escaneo QR reemplazarian el tipico menú fisico.
+-  **Fundacion** Estoy en proyeccion de donar una web sin animo de lucro para una fundacion que promueva la adopcion de animales rescatados.
+-  **Martina Clandestina** Web sencilla para una emprendedora que a modo de hobbie  suele vender y necesita mejorar su presentacion para presentar su producto
+-  **Barberia** Un cliente busca una landing page para su barberia la cual requiere una integracion de calendario para administrar las citas.
+ 💡 Planeo crecer esta sección a medida que sume proyectos reales y colaborativos.
 
 ---
 
