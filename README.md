@@ -50,9 +50,9 @@ Hola, soy Esneider, un desarrollador en formación con espíritu autodidacta y m
 ---
 
 ### 📁 Proyectos Destacados
-🔹 **Pagina Web Psicologia Transpersonal** – Aporte: Una psicologa independiente brinda y busca posicionarse de manera digital, para ello requiere integracion de pasarela de pagos y pagina web tipo portafolio y servios.
-Link: https://psicologiatranspersonal.vercel.app/
-(Entrega el: 7 Julio 2025)
+🔹 **Pagina Web Psicologia Transpersonal** – Rol: Una psicologa independiente busca posicionarse de manera digital para ello requiere una pagina web tipo portafolio y servios con integracion de pasarela de pagos.
+**Link:** https://psicologiatranspersonal.vercel.app/
+(Entrega: 7 Julio 2025)
 
 
 ---
