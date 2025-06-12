@@ -81,11 +81,6 @@ Hola, soy Esneider, un desarrollador en formación con espíritu autodidacta y m
 
 ---
 
-### ✨ Frase que me representa
-
-> _"No me detengo. Aprendo, creo y evoluciono con cada línea de código."_
-
----
 
 <p align="center">
   ¡Gracias por visitar mi perfil! 🚀
