@@ -61,15 +61,6 @@ Hola, soy Esneider, un desarrollador en formación con espíritu autodidacta y m
 
 📧 ecd.97@hotmail.com
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esneidercdd&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 
 <p align="center">
