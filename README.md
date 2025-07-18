@@ -53,9 +53,14 @@ Hola, soy Esneider, un desarrollador en formación con espíritu autodidacta y m
 ---
 
 ### 📁 Proyectos Destacados
-🔹 **Pagina Web Psicologia Transpersonal** – Rol: Una psicologa independiente busca posicionarse de manera digital para ello requiere una pagina web tipo portafolio y servios con integracion de pasarela de pagos.
-**Link:** https://psicologiatranspersonal.vercel.app/
-(Entrega: 7 Julio 2025)
+🔹 Psicología Transpersonal
+📆 04/2025 – 06/2025
+💻 Tecnologías: HTML, CSS, React.js, Framer Motion, Vite
+🔗 psicologiatranspersonal.vercel.app
+• Implementé una interfaz responsiva con React.js y Framer Motion que reflejó fielmente la identidad de marca personal de una psicóloga independiente, mejorando la percepción profesional del servicio y fortaleciendo la confianza del público.
+• Integré un sistema de pagos personalizado mediante formularios seguros en la web, lo que permitió reducir las comisiones de terceros del 10% al 3.5% y optimizar los ingresos directos.
+• Configuré métricas clave con Google Analytics para rastrear conversiones y comportamiento del usuario, facilitando decisiones informadas sobre contenido y estrategia digital.
+• Optimicé el rendimiento y velocidad del sitio con Vite, asegurando tiempos de carga mínimos y mejorando la experiencia de usuario, lo que favoreció la retención y el posicionamiento SEO.
 
 
 ---
