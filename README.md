@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hola! Soy Esneider Cadavid 👋</h1>
-<h3 align="center">Técnico en Desarrollo de Software | Apasionado por el Desarrollo Web (React & Python)</h3>
+<h3 align="center">Técnico en Desarrollo de Software </h3>
 
 ---
 
