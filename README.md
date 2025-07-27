@@ -11,7 +11,7 @@
 ### 🙋‍♂️ Sobre mí
 
 <p>
-  Soy <strong>Esneider Cadavid</strong>, desarrollador web en formación con enfoque profesional y mentalidad autodidacta. Me especializo en la creación de interfaces funcionales y adaptadas a necesidades reales, priorizando siempre la experiencia del usuario desde el diseño <em>Mobile First</em> hasta la implementación en producción.
+  Soy <strong>Esneider Cadavid</strong>,desarrollador Full-Stack con formación técnica y experiencia freelance construyendo soluciones web que generan impacto real. En los últimos años, me he especializado en transformar necesidades de negocio en plataformas digitales funcionales, trabajando con tecnologías como React.js, Python y PostgreSQL, Javascript, CSS, tailwindcss y Next.
 </p>
 
 <p>
