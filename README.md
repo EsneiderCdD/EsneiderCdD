@@ -11,15 +11,11 @@
 ### 🙋‍♂️ Sobre mí
 
 <p>
-  Soy <strong>Esneider Cadavid</strong>,desarrollador Full-Stack con formación técnica y experiencia freelance construyendo soluciones web que generan impacto real. En los últimos años, me he especializado en transformar necesidades de negocio en plataformas digitales funcionales, trabajando con tecnologías como React.js, Python y PostgreSQL, Javascript, CSS, tailwindcss y Next.
+  Soy <strong>Esneider Cadavid</strong>, desarrollador Full-Stack con formación técnica y experiencia freelance construyendo soluciones web que generan impacto real. En los últimos años, me he especializado en transformar necesidades de negocio en plataformas digitales funcionales, trabajando con tecnologías como React.js, Python y PostgreSQL, Javascript, CSS, tailwindcss y Next.
 </p>
 
 <p>
   Actualmente me desempeño como <strong>freelancer</strong>, colaborando con marcas personales y emprendimientos locales que buscan transformar su presencia digital. En cada proyecto aplico lo que aprendo, resolviendo problemas concretos mediante soluciones ligeras, escalables y pensadas para el día a día del cliente.
-</p>
-
-<p>
-  Mi enfoque está en <strong>React.js</strong>, aunque también trabajo activamente con tecnologías como <strong>Vite</strong>, <strong>JavaScript</strong> y herramientas de integración como <strong>Swiper.js</strong> o formularios con lógica personalizada. Paralelamente, sigo fortaleciendo mi base en <strong>Python</strong>, bases de datos y buenas prácticas de desarrollo para el backend.
 </p>
 
 <p>
