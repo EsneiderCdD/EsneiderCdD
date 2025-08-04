@@ -11,17 +11,20 @@
 ### 🙋‍♂️ Sobre mí
 
 <p>
-  Soy <strong>Esneider Cadavid</strong>, desarrollador Full-Stack con formación técnica y experiencia freelance construyendo soluciones web que generan impacto real. En los últimos años, me he especializado en transformar necesidades de negocio en plataformas digitales funcionales, trabajando con tecnologías como React.js, Python y PostgreSQL, Javascript, CSS, tailwindcss y Next.
+  Diseño y programo interfaces web, y me dedico a detectar problemas reales para orquestar soluciones digitales funcionales. Mi stack más familiar es React, Python, PostgreSQL, JavaScript y CSS. Como todo desarrollador curioso, también tengo buena "mano izquierda" con herramientas como Next.js y Tailwind, y siempre estoy aprendiendo algo nuevo.
 </p>
 
 <p>
-  Actualmente me desempeño como <strong>freelancer</strong>, colaborando con marcas personales y emprendimientos locales que buscan transformar su presencia digital. En cada proyecto aplico lo que aprendo, resolviendo problemas concretos mediante soluciones ligeras, escalables y pensadas para el día a día del cliente.
+ Soy proactivo por naturaleza: siempre estoy construyendo algo. Esa constancia me ha permitido generar ventas reales, mejorar mis habilidades de elicitación de requisitos y afinar el trato directo con clientes. Muchos de mis proyectos más grandes son personales, pero con impacto real: si puedo cobrar por soluciones para otros, ¿cómo no invertir en mis propias ideas?
 </p>
 
 <p>
-  Busco oportunidades para seguir desarrollándome mediante experiencias reales. Me interesa involucrarme en proyectos donde el código tenga propósito, ya sea automatizando procesos, mejorando experiencias o generando valor tangible para las personas que lo usan.
+  También he trabajado con empresas de alto nivel, lo que me ha dado experiencia en metodologías ágiles, trabajo en equipo, herramientas colaborativas y comunicación efectiva. No me bajo del código: cada semana estoy aprendiendo algo, buscando el próximo reto, la siguiente colaboración o ese proyecto que me saque de la zona cómoda.
 </p>
 
+<p>
+  ¿Te imaginas tener a alguien así en tu equipo?
+</p>
 
 ---
 
