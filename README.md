@@ -11,7 +11,7 @@
 ### 🙋‍♂️ Sobre mí
 
 <p>
-  Diseño y programo interfaces web, y me dedico a detectar problemas reales para orquestar soluciones digitales funcionales. Mi stack más familiar es React, Python, PostgreSQL, JavaScript y CSS. Como todo desarrollador curioso, también tengo buena "mano izquierda" con herramientas como Next.js y Tailwind, y siempre estoy aprendiendo algo nuevo.
+  Diseño y desarrollo interfaces web con enfoque en la resolución de problemas reales a través de soluciones digitales funcionales. Mi stack principal incluye React, Python, PostgreSQL, JavaScript, CSS y Git aunque también manejo con soltura herramientas como Next.js, Tailwind, Flask, Bootstrap Siempre estoy ampliando mi dominio técnico mientras mantengo los fundamentos sólidos.
 </p>
 
 <p>
