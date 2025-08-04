@@ -15,7 +15,7 @@
 </p>
 
 <p>
- Soy proactivo por naturaleza: siempre estoy construyendo algo. Esa constancia me ha permitido generar ventas reales, mejorar mis habilidades de elicitación de requisitos y afinar el trato directo con clientes. Muchos de mis proyectos más grandes son personales, pero con impacto real: si puedo cobrar por soluciones para otros, ¿cómo no invertir en mis propias ideas?
+  Soy proactivo por naturaleza: siempre estoy construyendo algo. Esa constancia me ha permitido generar impacto y ventas reales, manteniéndome abierto a proyectos freelance y colaborativos. En el proceso, he fortalecido habilidades clave como la elicitación de requisitos, la comunicación directa con clientes y la entrega de soluciones concretas. También he comenzado a desarrollar mis propios productos digitales —porque si puedo cobrar por resolver problemas de otros, ¿cómo no invertir en mis propias ideas? (Muy pronto conocerás más de eso).
 </p>
 
 <p>
