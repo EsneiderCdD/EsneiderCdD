@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/w7muUG6.png" alt="Banner Bienvenida Esneider" width="100%" />
 </p>
 
-<h1 align="center">Hola! Soy Esneider Cadavid 👋</h1>
+<h1 align="center">Esneider Cadavid 👋</h1>
 <h3 align="center">Técnico en Desarrollo de Software </h3>
 
 ---
