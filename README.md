@@ -10,21 +10,24 @@
 
 ### 🙋‍♂️ Sobre mí
 
-<p>
-  Diseño y desarrollo interfaces web con enfoque en la resolución de problemas reales a través de soluciones digitales funcionales. Mi stack principal incluye React, Python, PostgreSQL, JavaScript, CSS y Git aunque también manejo con soltura herramientas como Next.js, Tailwind, Flask, Bootstrap Siempre estoy ampliando mi dominio técnico mientras mantengo los fundamentos sólidos.
-</p>
+<div style="text-align: center;">
+  <p>
+    Diseño y desarrollo interfaces web con enfoque en la resolución de problemas reales a través de soluciones digitales funcionales. Mi stack principal incluye React, Python, PostgreSQL, JavaScript, CSS y Git aunque también manejo con soltura herramientas como Next.js, Tailwind, Flask, Bootstrap Siempre estoy ampliando mi dominio técnico mientras mantengo los fundamentos sólidos.
+  </p>
 
-<p>
-  Soy proactivo por naturaleza: siempre estoy construyendo algo. Esa constancia me ha permitido generar impacto y ventas reales, manteniéndome abierto a proyectos freelance y colaborativos. En el proceso, he fortalecido habilidades clave como la elicitación de requisitos, la comunicación directa con clientes y la entrega de soluciones concretas. También he comenzado a desarrollar mis propios productos digitales —porque si puedo cobrar por resolver problemas de otros, ¿cómo no invertir en mis propias ideas? (Muy pronto conocerás más de eso).
-</p>
+  <p>
+    Soy proactivo por naturaleza: siempre estoy construyendo algo. Esa constancia me ha permitido generar impacto y ventas reales, manteniéndome abierto a proyectos freelance y colaborativos. En el proceso, he fortalecido habilidades clave como la elicitación de requisitos, la comunicación directa con clientes y la entrega de soluciones concretas. También he comenzado a desarrollar mis propios productos digitales —porque si puedo cobrar por resolver problemas de otros, ¿cómo no invertir en mis propias ideas? (Muy pronto conocerás más de eso).
+  </p>
 
-<p>
-  También he trabajado con empresas de alto nivel, lo que me ha dado experiencia en metodologías ágiles, trabajo en equipo, herramientas colaborativas y comunicación efectiva. No me bajo del código: cada semana estoy aprendiendo algo, buscando el próximo reto, la siguiente colaboración o ese proyecto que me saque de la zona cómoda.
-</p>
+  <p>
+    Una de mis partes favoritas es el trabajo con empresas de alto nivel, a las cuales ya he sido parte. En estos entornos colaboro con grandes equipos, roles definidos y objetivos exigentes, afinando habilidades como metodologías ágiles, comunicación precisa, colaboración efectiva, trabajo bajo estándares profesionales y seguimiento de instrucciones claras. Aporto calidad dentro de una cadena de valor real, en conjunto con diseñadores, QA y otros desarrolladores.
+  </p>
 
-<p>
-  ¿Te imaginas tener a alguien así en tu equipo?
-</p>
+  <p>
+    No me bajo del código: cada semana estoy aprendiendo algo, buscando el próximo reto, la siguiente colaboración o ese proyecto que me saque de la zona cómoda.
+  </p>
+</div>
+
 
 ---
 
