@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Esneider Cadavid 👋</h1>
-<h3 align="center">Técnico en Desarrollo de Software </h3>
+<h3 align="center">Técnico en Desarrollo de Software y Desarrollador Full-Stack</h3>
 
 ---
 
