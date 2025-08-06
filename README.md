@@ -1,7 +1,8 @@
 <!-- Banner de bienvenida -->
 <p align="center">
-  <img src="https://i.imgur.com/w7muUG6.png" alt="Banner Bienvenida Esneider" width="100%" />
+  <img src="https://i.imgur.com/Ob9amuz.png" alt="Banner Bienvenida Esneider" width="100%" />
 </p>
+
 
 <h1 align="center">Esneider Cadavid 👋</h1>
 <h3 align="center">Técnico en Desarrollo de Software y Desarrollador Full-Stack</h3>
